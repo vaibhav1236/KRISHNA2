@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/2681660.jpg);
+   position:relative;
+   
+
+}
+
+
+h1{
+    color:orangered;
+}
+
+h1:hover{
+
+background-color:white;
+color:black;
+
+
+}
+
+
+
+.container{
+    font-size:0.7cm;
+
+
+ color:white;
+}
